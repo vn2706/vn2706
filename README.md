@@ -8,7 +8,7 @@
 <br />
 
 <samp>
- I am a final-year BCA graduate pursuing a Java Full Stack Development course from Jspiders to strengthen my skills.
+ I am a final-year BCA graduate pursuing Java Full Stack Development course from Jspiders to strengthen my skills.
  I also love solving problems on Leetcode as I like coding ...
 </samp>
 
