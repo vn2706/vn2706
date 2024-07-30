@@ -24,7 +24,7 @@
 <hr>
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vn2706&theme=tokyonight&hide_border=true" alt="vn2706's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vn2706&theme=cobalt&hide_border=true" alt="vn2706's GitHub Stats" />
 <hr>
 
 [![](https://visitcount.itsvg.in/api?id=vn2706&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
