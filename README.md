@@ -5,7 +5,7 @@
 
 </div>
 💫 About Me:
-<br>-To apply my problem-solving abilities and passion for computer science in a challenging role as a software engineer<br>-KLE S.Nijalingappa College                                                                                                 August 2021 - July 2024<br>Bachelor of Computer Applications - Bangalore, Karnataka;	                            CGPA: 9.47<br>
+<br>-Eager to apply my problem-solving abilities and passion for computer science in a challenging role as a software engineer.<br>-KLE S.Nijalingappa College                                                                                                 August 2021 - July 2024<br>Bachelor of Computer Applications - Bangalore, Karnataka;	                            CGPA: 9.47<br>
 
 
 <kbd>
