@@ -24,8 +24,10 @@
 </p>
 
 <hr>
-  
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  
+<hr>
 
 
 [![](https://visitcount.itsvg.in/api?id=vn2706&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
