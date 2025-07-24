@@ -4,8 +4,8 @@
 <div align="center" width="50"></div>
 
 # 💫About Me:
-<br>- Graduated in August 2024 with a Bachelor of Computer Applications from KLE S. Nijalingappa College, Bangalore, CGPA: 9.47  
-- Completed Java Full Stack Development course at JSpiders  
+<br>- Graduated in August 2024 with a Bachelor of Computer Applications from KLE S. Nijalingappa College, Bangalore, CGPA: 9.47
+- Currently pursuing an online MBA from Jain University in BI and Analytics(2025-2027)
 - Worked at **Antal International** as an **Associate Consultant** (Dec 2024 – May 2025), where I focused on **Lead Analytics** and **Recruitment Analytics**  
 - Currently working at **Zinnov** (June 2025 – Aug 2025, Contract) as an **HR Analytics Consultant**, performing similar analytics-driven hiring analysis  
 - Actively looking for **Data Analytics** opportunities to leverage my problem-solving skills and passion for data  
