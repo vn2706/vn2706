@@ -3,7 +3,7 @@
 
 <div align="center" width="50"></div>
 
-💫 **About Me:**  
+# 💫About Me:
 <br>- Graduated in August 2024 with a Bachelor of Computer Applications from KLE S. Nijalingappa College, Bangalore, CGPA: 9.47  
 - Completed Java Full Stack Development course at JSpiders  
 - Worked at **Antal International** as an **Associate Consultant** (Dec 2024 – May 2025), where I focused on **Lead Analytics** and **Recruitment Analytics**  
