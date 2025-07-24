@@ -10,12 +10,17 @@
 - Currently working at **Zinnov** (June 2025 – Aug 2025, Contract) as an **HR Analytics Consultant**, performing similar analytics-driven hiring analysis  
 - Actively looking for **Data Analytics** opportunities to leverage my problem-solving skills and passion for data  
 
-<kbd>
- <img width="400" alt="GIF" src="https://github.com/vn2706/vn2706/blob/main/assets/gif1.gif" >
-</kbd>
-
-<br />
-<br />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <hr>
 
+# 📊 GitHub Stats:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vn2706&theme=cobalt&hide_border=true" alt="vn2706's GitHub Stats" />
+
+<hr>
+
+[![](https://visitcount.itsvg.in/api?id=vn2706&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
