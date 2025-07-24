@@ -1,13 +1,15 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&height=54&lines=Hey+there%2c+fellow+coders!" alt="Typing SVG" /></a>
-<div align="center" width="50">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&height=54&lines=Welcome+to+my+Portfolio!" alt="Typing SVG" /></a>
 
+<div align="center" width="50"></div>
 
-</div>
-💫 About Me:
-<br>-Currently pursuing Java Full Stack Development course from Jspiders and preparing for Off-campus opportunities.<be>
+💫 **About Me:**  
+<br>- Graduated in August 2024 with a Bachelor of Computer Applications from KLE S. Nijalingappa College, Bangalore, CGPA: 9.47  
+- Completed Java Full Stack Development course at JSpiders  
+- Worked at **Antal International** as an **Associate Consultant** (Dec 2024 – May 2025), where I focused on **Lead Analytics** and **Recruitment Analytics**  
+- Currently working at **Zinnov** (June 2025 – Aug 2025, Contract) as an **HR Analytics Consultant**, performing similar analytics-driven hiring analysis  
+- Actively looking for **Data Analytics** opportunities to leverage my problem-solving skills and passion for data  
 
- -Eager to apply my problem-solving abilities and passion for computer science in a challenging role as a software engineer.<br>-KLE S.Nijalingappa College                                                                                                 (August 2021 - July 2024)<br>-Bachelor of Computer Applications - Bangalore, Karnataka;	                            CGPA: 9.47<br>
 <kbd>
  <img width="400" alt="GIF" src="https://github.com/vn2706/vn2706/blob/main/assets/gif1.gif" >
 </kbd>
@@ -16,16 +18,4 @@
 <br />
 
 <hr>
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-  
-<hr>
-
-# 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vn2706&theme=cobalt&hide_border=true" alt="vn2706's GitHub Stats" />
-<hr>
-
-[![](https://visitcount.itsvg.in/api?id=vn2706&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
